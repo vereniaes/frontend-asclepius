@@ -157,7 +157,7 @@ header {
   background-color: #33333355;
   height: 600px;
 
-  background-image: url('../images/bg.png');
+  background-image: url("../images/bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -326,3 +326,5 @@ main {
   gap: 8px;
 }
 /* End of Footer */
+
+/* comments */
